@@ -1,0 +1,3 @@
+/* Minimal custom styles */
+body { scroll-behavior: smooth; }
+.card { border-radius: 14px; }
