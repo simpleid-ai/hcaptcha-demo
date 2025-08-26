@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "HCAPTCHA_SECRET": "REPLACE_WITH_YOUR_SECRET",
+    "ALLOWED_ORIGIN": "http://127.0.0.1:5500"
+  }
+}
